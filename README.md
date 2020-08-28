@@ -1,6 +1,12 @@
 # actors_ui_flutter_ui_6
-
 This is another beautiful UI which I created in a flutter.<br>
+This UI is a part of a series of UI's i am building. Check other UI's clicking the linke below
+* [Flutter UI 1 Login UI](https://github.com/harshkumarkhatri/Flutter-UI-1-Login-UI)
+* [Flutter UI 2 Product Showcase UI](https://github.com/harshkumarkhatri/Product-Showcase-UI-Flutter)
+* [Flutter UI 3 Find Your Inspiration](https://github.com/harshkumarkhatri/Flutter-UI-3-Find-your-inspiration)
+* [Flutter UI 4 Looking for Places](https://github.com/harshkumarkhatri/Flutter-UI-4-Looking-for-Places)
+* [Flutter UI 5 Food Delivery UI](https://github.com/harshkumarkhatri/Flutter-UI-5-Food-delivery-app)
+* [Flutter UI 6 Actor Profile UI](https://github.com/harshkumarkhatri/Flutter-UI-6-Actor-Profiles-App)
 
 **About the UI**:-<br> When you will be opening the pp you will be seeing a catalog for different actors to choose from(not yet implemented in this UI). When you click on the profile of one of them you will be taken to a screen which is shown in this UI. This screen has a custom scroll view with silverappbar and sliver list screen. The sliver appbar shrinks to the top when we scroll to the top and get back to its place when we scroll to the bottom. After this, we have sliver list which has different items in it that appear on the screen with animation. For the animation part, I have used the simple_animation package. The body of this page has stack as the top-level widget which is used so that the following bottom positioned at the bottom can be aligned accordingly with the page. In the sliver list, we also have a horizontal list that has a video template for different videos from the actor which is being displayed.
 ___
